@@ -1,0 +1,14 @@
+#include <STC12C5A60S2.H>
+#include "uart1.h"
+#include "uart2.h"
+#include "int2char.h"
+#include "delay.h"
+#include "pwm.h"
+//OLED π”√
+#include "OLED.h"
+#include "codetab.h"
+
+#include "iic.h"
+#include "mpu6050.h"
+#include"typerename.h"
+
